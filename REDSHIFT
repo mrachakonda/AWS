@@ -1,0 +1,5 @@
+# Choose the Best Distribution Style
+    1.	Distribute the fact table and one dimension table on their common columns.
+    2.	Choose the largest dimension based on the size of the filtered data set.
+    3.	Choose a column with high cardinality in the filtered result set.
+    4.	Change some dimension tables to use ALL distribution.
